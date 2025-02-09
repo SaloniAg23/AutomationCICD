@@ -26,6 +26,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import SeleniumFramework.pageobjects.LandingPage;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
+// This is my Base Test
+
 public class BaseTest {
 
 	public WebDriver driver;
